@@ -17,7 +17,7 @@ This is a terminal-based application that allows for the user to setup profiles 
 
 ## Walkthrough
 
-* [walkthrough]()
+* [walkthrough](https://drive.google.com/file/d/1Rpj1RTszNPTEIosZimQU3CJY39xTfriW/view)
 
 ## Questions 
 
