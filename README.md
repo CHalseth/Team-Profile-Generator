@@ -24,4 +24,4 @@ This is a terminal-based application that allows for the user to setup profiles 
 You can reach me through my email or GitHub account listed below with any questions.
 
 * [Email](mailto:Corey.Halseth@gmail.com)
-* [Github](hhtps://github.com/CHalseth)
+* [Github](https://github.com/CHalseth)
