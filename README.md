@@ -13,6 +13,8 @@ This is a terminal-based application that allows for the user to setup profiles 
 * Email links will take you to the default email program allowing for emails to be sent
 * GitHub username link will open their GitHub profile in a new tab
 
+** Previously generated [HTML](dist/index.html)
+
 ## Walkthrough
 
 * [walkthrough]()
